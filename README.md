@@ -6,9 +6,9 @@ In this project I reworked with an old rolodex programme which was coded in K&R 
 
 ## Getting Started
 
-Instructions to use run after cloning the repository
+Instructions to use run after cloning
 
-##Running
+## Running
 
 Run the make file
 
@@ -21,11 +21,11 @@ C99
 ### Coding style
 
 ```
-TABS - coz I need my SPACE
+TABS coz I need dat SPACE
 ```
 
 ## Acknowledgments
 
-Eugene Stark 
-CSE 320
-Stony Brook University
+- Eugene Stark 
+- CSE 320
+- Stony Brook University
